@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gr1m0ire
 - 👀 I’m interested in Java or C++ programming.
 - 🌱 I’m currently learning network fundamentals 
-     on udemy.
+     on udemy. My Java and C++ programming skills
+     are at best pre-intermediate level.
 - 💞️ I’m looking to collaborate on just about 
      anything that can help develop my skillset.
      
